@@ -10,3 +10,4 @@ print("new_first")
 print("2.hi new_first")
 
 print("second")
+print("2.hi from second")
